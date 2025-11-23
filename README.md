@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋, I'm Malcolm</h1>
 <h3 align="center">Computer Science student, learning and building projects.</h3>
 
-- 🔭 I’m currently working on [Interface web des temps d'attente en agences OPT](https://github.com/adriens/temps-attente-streamlit/)
+- 🔭 I am currently studying at [ENSEEIHT](https://www.enseeiht.fr/fr/index.html) in the Systems and Network Architecture program.
 
-- 🌱 I’m currently learning **concurrency and networks in Python, cybersecurity, system programming in C, and PostgreSQL databases**
-
-- 📫 How to reach me **bertainamalcolm@gmail.com**
+- 📫 How to reach me : bertainamalcolm@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
